@@ -12,6 +12,10 @@ Link: [OpenReview](https://openreview.net/forum?id=ixMBnOhFGd)
 
 SePer introduces a novel framework to evaluate retrieval utility by analyzing **semantic perplexity** and **semantic perplexity reduction**. This approach provides a more fine-grained measurement of retrieval utility, offering insights beyond traditional evaluation metrics.
 
+## Benchmark For Retrievers
+
+The benchmark for retrievers is available at [here](benchmark.md)
+
 ## Citation
 
 If you find our work useful, please cite our paper:
