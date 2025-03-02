@@ -8,13 +8,15 @@ Authors: Lu Dai, Yijie Xu, Jinhui Ye, Hao Liu, Hui Xiong
 
 Link: [OpenReview](https://openreview.net/forum?id=ixMBnOhFGd)
 
+**Note**: This page is still under construction. We will release the code and data soon.
+
 ## Overview
 
 SePer introduces a novel framework to evaluate retrieval utility by analyzing **semantic perplexity** and **semantic perplexity reduction**. This approach provides a more fine-grained measurement of retrieval utility, offering insights beyond traditional evaluation metrics.
 
 ## Benchmark For Retrievers
 
-The benchmark for retrievers is available at [here](benchmark.md)
+The benchmark for retrievers is available at [here](https://anonymous.4open.science/r/SePer/README.md).
 
 ## Citation
 

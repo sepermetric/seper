@@ -1,9 +1,4 @@
-Here is the benchmark for retrievers. We include `SePer@k` and `Recall@k` as metrics and report the results of k=1,5,10 (k is the number of retrived documents). For SePer, we use llama-2-7b-chat and llama-2-13b-chat as the generator model. The two metrics demonstates high consistency. More retrievers and generators will come soon.
-
-Some quick take-aways:
-1. `SePer` shows high consistency among different generators in retriever evaluation.
-2. `SePer` aligns well with main metrics such as `Recall@k` in retriever evaluation.
-3. `SePer` aligns well with the difficulty level of dataset.
+Here is the benchmark for retrievers. 
 
 <html xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:x="urn:schemas-microsoft-com:office:excel"
