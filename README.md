@@ -16,7 +16,7 @@ SePer introduces a novel framework to evaluate retrieval utility by analyzing **
 
 ## Benchmark For Retrievers
 
-The benchmark for retrievers is available at [here](https://anonymous.4open.science/r/SePer/README.md).
+The benchmark for retrievers is available at [here](https://sepermetric.github.io/).
 
 ## Citation
 
