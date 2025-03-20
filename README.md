@@ -28,6 +28,9 @@ pip install torch
 pip install -r requirements.txt
 ```
 
+## Quick Start
+We provide a jupyter notebook `example.ipynb` to demonstrate the minimal use of seper. You can quickly go through this notebook.
+
 
 ## Benchmark For Retrievers
 
