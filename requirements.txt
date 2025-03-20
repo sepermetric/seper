@@ -1,0 +1,11 @@
+transformers==4.40.0
+flash-attn
+accelerate
+ipykernel
+ipython
+ipywidgets
+jupyter
+numpy
+tqdm
+wandb
+sentencepiece

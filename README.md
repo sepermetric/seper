@@ -18,6 +18,16 @@ Below is a illustration of SePer's ability to perform fine-grained evaluation:
 ![illustration](./assets/illustration.png)
 
 
+## Installation
+Below is the steps for environment preparation:
+
+```bash
+conda create -n seper python=3.10
+conda activate seper
+pip install torch
+pip install -r requirements.txt
+```
+
 
 ## Benchmark For Retrievers
 
