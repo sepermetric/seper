@@ -1,5 +1,10 @@
 # SePer: Official Implementation
 
+![Arxiv](https://img.shields.io/badge/Arxiv-2503.01478-red.svg?style=plastic)
+![python 3.11](https://img.shields.io/badge/python-3.11-royalblue.svg?style=plastic)
+![transformer 4.40](https://img.shields.io/badge/transformer-4.40-green.svg?style=plastic)
+![license Apache-2.0](https://img.shields.io/badge/license-Apache%202.0-inactive.svg?style=plastic)
+
 This repository contains the official implementation of our ICLR 2025 **Spotlight** paper:
 
 **SePer: Measure Retrieval Utility Through The Lens Of Semantic Perplexity Reduction**
@@ -22,7 +27,7 @@ Below is a illustration of SePer's ability to perform fine-grained evaluation:
 Below is the steps for environment preparation:
 
 ```bash
-conda create -n seper python=3.10
+conda create -n seper python=3.11
 conda activate seper
 pip install torch
 pip install -r requirements.txt
