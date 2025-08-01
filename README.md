@@ -13,7 +13,6 @@ Authors: Lu Dai, Yijie Xu, Jinhui Ye, Hao Liu, Hui Xiong
 
 Link: [OpenReview](https://openreview.net/forum?id=ixMBnOhFGd)
 
-**Note**: This page is still under construction. We will release the code and data soon.
 
 ## Overview
 
