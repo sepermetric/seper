@@ -5,13 +5,21 @@
 ![transformer 4.40](https://img.shields.io/badge/transformer-4.40-green.svg?style=plastic)
 ![license Apache-2.0](https://img.shields.io/badge/license-Apache%202.0-inactive.svg?style=plastic)
 
-This repository contains the official implementation of our ICLR 2025 **Spotlight** paper:
+---
 
-**SePer: Measure Retrieval Utility Through The Lens Of Semantic Perplexity Reduction**
+**TL;DR: SePer is an accurate / fast / free-of-API metric to measure document quality via information gain.**
+
+------
+
+This repository contains the official implementation of our ICLR 2025 **Spotlight**🎉 paper:
+
+SePer: Measure Retrieval Utility Through The Lens Of Semantic Perplexity Reduction
 
 Authors: Lu Dai, Yijie Xu, Jinhui Ye, Hao Liu, Hui Xiong
 
 Link: [OpenReview](https://openreview.net/forum?id=ixMBnOhFGd)
+
+Project Page: [SePer Project Page](https://sepermetric.github.io/)
 
 
 ## Overview
